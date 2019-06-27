@@ -9,6 +9,7 @@ img.were_all_ok {
 }
 
 .adjustments_for_your_reading_pleasure {
-  max-width: 500px;
+  max-width: auto;
   margin: auto;
+  text-align: center;
 }
