@@ -12,4 +12,7 @@ img.were_all_ok {
   max-width: 100%;
   margin: auto;
   text-align: center;
+  position:relative;
+  display:block;
+
 }
