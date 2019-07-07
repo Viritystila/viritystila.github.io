@@ -16,3 +16,28 @@ img.were_all_ok {
   display:block;
 
 }
+
+.face {
+  line-height:18px; 
+  font-size: 14px; 
+  letter-spacing:-1px; 
+  font-weight:bold;
+}
+
+.name {
+  line-height:18px; 
+  font-size: 7px; 
+  letter-spacing:-1px;
+}
+
+@media screen and (min-width: 680px) {
+
+  .face {
+    font-size: 18px;
+  }
+
+  .name {
+    font-size: 12px
+  }
+
+}
