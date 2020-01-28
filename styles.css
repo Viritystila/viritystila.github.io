@@ -8,13 +8,23 @@ img.were_all_ok {
   max-width: 500px;
 }
 
-.adjustments_for_your_reading_pleasure {
+.lets_get_ugly_with_header {
   max-width: 680px;
   margin: auto;
   text-align: center;
   position:relative;
   display:block;
+}
 
+.spec {
+  color: #999; /*the number of the beast upside down*/
+}
+
+.adjustments_for_your_reading_pleasure {
+  max-width: 680px;
+  margin: auto;
+  position:relative;
+  display:block; 
 }
 
 .face {
